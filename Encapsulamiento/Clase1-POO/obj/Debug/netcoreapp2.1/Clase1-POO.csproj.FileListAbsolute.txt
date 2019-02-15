@@ -1,0 +1,11 @@
+c:\users\jmhm\source\repos\Encapsulamiento\Clase1-POO\bin\Debug\netcoreapp2.1\Clase1-POO.deps.json
+c:\users\jmhm\source\repos\Encapsulamiento\Clase1-POO\bin\Debug\netcoreapp2.1\Clase1-POO.runtimeconfig.json
+c:\users\jmhm\source\repos\Encapsulamiento\Clase1-POO\bin\Debug\netcoreapp2.1\Clase1-POO.runtimeconfig.dev.json
+c:\users\jmhm\source\repos\Encapsulamiento\Clase1-POO\bin\Debug\netcoreapp2.1\Clase1-POO.dll
+c:\users\jmhm\source\repos\Encapsulamiento\Clase1-POO\bin\Debug\netcoreapp2.1\Clase1-POO.pdb
+c:\users\jmhm\source\repos\Encapsulamiento\Clase1-POO\obj\Debug\netcoreapp2.1\Clase1-POO.csprojAssemblyReference.cache
+c:\users\jmhm\source\repos\Encapsulamiento\Clase1-POO\obj\Debug\netcoreapp2.1\Clase1-POO.csproj.CoreCompileInputs.cache
+c:\users\jmhm\source\repos\Encapsulamiento\Clase1-POO\obj\Debug\netcoreapp2.1\Clase1-POO.AssemblyInfoInputs.cache
+c:\users\jmhm\source\repos\Encapsulamiento\Clase1-POO\obj\Debug\netcoreapp2.1\Clase1-POO.AssemblyInfo.cs
+c:\users\jmhm\source\repos\Encapsulamiento\Clase1-POO\obj\Debug\netcoreapp2.1\Clase1-POO.dll
+c:\users\jmhm\source\repos\Encapsulamiento\Clase1-POO\obj\Debug\netcoreapp2.1\Clase1-POO.pdb
